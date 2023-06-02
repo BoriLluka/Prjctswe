@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685273434 source:e:\prcjswe\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+
